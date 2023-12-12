@@ -26,9 +26,11 @@ O banco de dados deverá ter um campo para armazenar um Prenome
 
 ## Requisito RU9 - Logradouro
 
-## Requisito RU9 - Nome do Logradouro
+## Requisito RU10 - Nome do Logradouro
 
-## Requisito RU9 - Nome do meio
+## Requisito RU11 - Número
+
+## Requisito RU12 - Complemento
 
 ## Requisitos de sistema
 
